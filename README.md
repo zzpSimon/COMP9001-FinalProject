@@ -45,6 +45,10 @@ Install the required graphics library via pip:
 ```
 pip install pygame
 ```
+Use this alternative if 'pip' is not recognized:
+```
+pip3 install pygame 
+```
 # 3. Run the Game
 Execute the main entry script to play the game:
 ```
