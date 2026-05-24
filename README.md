@@ -37,7 +37,7 @@ Make sure you have Python installed on your local computer. This project relies 
 # 1. Clone the Repository
 open in terminal: 
 ```
-git clone [https://github.com/zzpSimon/COMP9001-FinalProject.git]
+git clone https://github.com/zzpSimon/COMP9001-FinalProject.git
 cd COMP9001-FinalProject
 ```
 # 2. Install Dependencies
